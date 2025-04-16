@@ -34,7 +34,7 @@ Este repositório contém uma API desenvolvida em **Spring Boot** que permite o 
 A autenticação da API é baseada em JWT. Para acessar os endpoints protegidos, é necessário realizar login e usar o token no header:
 Authorization: Bearer <seu-token>
 
-##🛠️ Como rodar localmente
+## 🛠️ Como rodar localmente
 - Pré-requisitos
 - Java 17
 - PostgreSQL rodando localmente
