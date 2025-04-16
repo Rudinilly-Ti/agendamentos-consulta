@@ -1,6 +1,6 @@
 # 🩺 API de Agendamentos de Consulta - Voll.med
 
-Este repositório contém uma API desenvolvida em **Spring Boot** que permite o **cadastro de médicos e pacientes**, além do **agendamento e cancelamento de consultas médicas**. A aplicação segue boas práticas com autenticação via JWT, versionamento de banco com Flyway e persistência com PostgreSQL.
+Este repositório contém uma API desenvolvida em **Spring Boot** que permite o **cadastro de médicos e pacientes**, além do **agendamento de consultas médicas**. A aplicação segue boas práticas com autenticação via JWT, versionamento de banco com Flyway e persistência com PostgreSQL.
 
 ---
 
