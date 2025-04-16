@@ -32,7 +32,9 @@ Este repositório contém uma API desenvolvida em **Spring Boot** que permite o 
 ---
 ## 🔐 Autenticação
 A autenticação da API é baseada em JWT. Para acessar os endpoints protegidos, é necessário realizar login e usar o token no header:
+```bash
 Authorization: Bearer <seu-token>
+```
 
 ## 🛠️ Como rodar localmente
 - Pré-requisitos
